@@ -1,5 +1,4 @@
 # DESIGN-AND-IMPLEMENTATION-OF-CDMA-BASED-LOW-POWER-VLSI-ROUTER
-# CDMA-Based VLSI Router for Network-on-Chip (NoC)
 
 A high-performance, low-latency router architecture for Network-on-Chip (NoC) systems based on Code Division Multiple Access (CDMA), implemented using Verilog HDL and deployed on an Artix-7 FPGA.
 
