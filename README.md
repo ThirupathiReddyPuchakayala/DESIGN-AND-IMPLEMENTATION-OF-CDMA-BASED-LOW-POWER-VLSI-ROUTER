@@ -58,9 +58,15 @@ Traditional NoC architectures face limitations in latency, scalability, and band
 
 ## 📖 Citation
 If you use or reference this project in your work, please cite it appropriately:
-Thirupathi Reddy Puchakayala, "CDMA-Based VLSI Router for Network-on-Chip," 2025.
+Thirupathi Reddy Puchakayala, "DESIGN AND IMPLEMENTATION OF CDMA BASED LOW POWER VLSI ROUTER" 2025.
 
 ## 💡 Future Scope
 1.Adaptive code allocation
 2.Machine learning-based traffic routing
 3.ASIC migration for commercial deployment
+
+## 👨‍💻 Developed By
+P. Thirupathi Reddy M. Amani S.Inderjeet Singh V.Sahith Kumar G.Mahibabu
+
+## Guided by
+Mr. D. Ravikiran Babu, Associate Professor, Dept. of ECE, Jyothishmathi Institute of Technology and Science
