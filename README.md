@@ -42,7 +42,8 @@ Traditional NoC architectures face limitations in latency, scalability, and band
 ## 🧪 Getting Started
 
 1. Clone this repo  
-   ```bash git clone https://github.com/ThirupathiReddyPuchakayala/DESIGN-AND-IMPLEMENTATION-OF-CDMA-BASED-LOW-POWER-VLSI-ROUTER.git
+   ```bash
+    git clone https://github.com/ThirupathiReddyPuchakayala/DESIGN-AND-IMPLEMENTATION-OF-CDMA-BASED-LOW-POWER-VLSI-ROUTER.git
     cd DESIGN-AND-IMPLEMENTATION-OF-CDMA-BASED-LOW-POWER-VLSI-ROUTER
 2.Open project in Vivado
 3.Run synthesis and generate bitstream
