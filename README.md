@@ -50,18 +50,18 @@ Traditional NoC architectures face limitations in latency, scalability, and band
 4.Load bitstream via JTAG to Artix-7 FPGA
 5.Observe simulation and waveform outputs
 
-📂 Project Structure
+##📂 Project Structure
 ├── src/              # Verilog source code
 ├── testbench/        # Testbench modules
 ├── docs/             # Design documentation
 ├── reports/          # Synthesis and simulation results
 └── README.md
 
-📖 Citation
+##📖 Citation
 If you use or reference this project in your work, please cite it appropriately:
 Thirupathi Reddy Puchakayala, "CDMA-Based VLSI Router for Network-on-Chip," 2025.
 
-💡 Future Scope
-Adaptive code allocation
-Machine learning-based traffic routing
-ASIC migration for commercial deployment
+##💡 Future Scope
+1.Adaptive code allocation
+2.Machine learning-based traffic routing
+3.ASIC migration for commercial deployment
